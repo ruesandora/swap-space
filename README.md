@@ -47,4 +47,7 @@ htop
 ![image](https://user-images.githubusercontent.com/101149671/207309748-5b1a4a41-28b9-4faa-b60a-d76c648ee286.png)
 ![image](https://user-images.githubusercontent.com/101149671/207309767-f181fc65-314c-475c-ac49-daa045d8c35a.png)
 
-
+## Silmek için:
+```
+sudo swapoff -a
+```
